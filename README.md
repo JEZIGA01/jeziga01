@@ -5,4 +5,4 @@
 <br>
 
 #### Criar vídeos para ajudar outros devs:
-- 🌱 <a href="https://youtu.be/OcDCOY1sBdU" target="_blank">Como colocar meu projeto no GITHUB PAGES</a>
+- 🌱 <a  target="_blank" href="https://youtu.be/OcDCOY1sBdU">Como colocar meu projeto no GITHUB PAGES</a>
