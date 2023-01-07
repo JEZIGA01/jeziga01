@@ -4,7 +4,7 @@
 
 
 - Análise e Desenvolvimento de Sistemas (6/6)
-- Servidora Pública na Secretaria de Educação (Gestão Administrativa)
+- Servidora Pública na Secretaria de Educação (Gestora Administrativa)
 - Tutora de Programação
 
 #### Nas horas vagas:
