@@ -1,5 +1,5 @@
 
-> Entrei no mundo da tecnologia para ajudar e fazer a diferença na vida das pessoas ! 💜</p><br>   
+> Entrei no mundo da tecnologia para ajudar e fazer a diferença na vida das pessoas ! 💜</p>
 - Análise e Desenvolvimento de Sistemas (6/6) <br/>
 - Servidora Pública  
 
