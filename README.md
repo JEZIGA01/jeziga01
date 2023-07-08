@@ -1,6 +1,6 @@
 
 > Entrei no mundo da tecnologia para ajudar e fazer a diferença na vida das pessoas ! 💜</p>
-- Análise e Desenvolvimento de Sistemas (6/6) <br/>
+- Análise e Desenvolvimento de Sistemas <br/>
 - Servidora Pública  
 
 #### Nas horas vagas:
