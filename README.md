@@ -1,7 +1,7 @@
 
 > Entrei no mundo da tecnologia para ajudar e fazer a diferença na vida das pessoas ! 💜</p>
-- Análise e Desenvolvimento de Sistemas <br/>
-- Servidora Pública
+- 💕 Análise e Desenvolvimento de Sistemas <br/>
+- ✨ Servidora Pública na área da Educação 
 - 🌱 <a target="_blank" href="https://www.youtube.com/watch?v=OcDCOY1sBdU&list=PLa8Ye6pwKJV9WhFgOepeGmON4h8UozYl0">Meu canal no Youtube</a></br>
 
 💀 <a target="_blank" href="https://www.youtube.com/watch?v=EZM2rXe92bs&list=PLa8Ye6pwKJV9WhFgOepeGmON4h8UozYl0&index=2&ab_channel=J%C3%A9ssicaAquiles">Github- Saiba como fazer versionamento para projetos da faculdade</a></br>
